@@ -1,0 +1,124 @@
+
+.wrapper {
+    width: auto;
+    margin: auto;
+}
+
+nav ul {
+    padding-top: 16px;
+    margin: auto;
+    width: 290px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0px 10px;
+}
+
+nav ul li a {
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #332C29;
+}
+
+header {
+    overflow: hidden;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+#logo {
+    padding-top: 10px;
+}
+
+#welcome {
+    width: auto;
+    padding-top: 25px;
+    }
+
+h1 {
+    font-family: Tahoma, Geneva, sans-serif;;
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+#welcome p {
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 16px;
+    line-height: 1.4em;
+    color: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+#content {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+article {
+    float: left;
+    background: URL("images/content-bg.png") top left repeat;
+    padding: 15px;
+    width: auto;
+    height: auto;
+    color: #fff;
+    margin: 0px 20px 20px 20px;
+    line-height: 1.6em;
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 0px 0px 8px #333;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: Tahoma, Geneva, sans-serif;;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #FFFBF2;
+    padding-top: 20px;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 1px #331B0F;
+    text-align: center;
+}
+
+.separator {
+    background: URL("images/separator.png")center repeat-x;
+    width: auto;
+    height: 2px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+}
+
+.articleImg {
+    width: 250px;
+    height: 300px;
+    margin: 0 auto 20px;
+}
+
+.articleText {
+    height: auto;
+}
+
+.button {
+    text-shadow: none;
+    width: 258px;
+    height: 60px;
+    margin: 0 auto;
+    }
+
+footer p {
+    text-align: center;
+    font-size: 11px;
+    color: #FFEECC;
+    padding-top: 29px;
+    
+}
+
