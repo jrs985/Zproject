@@ -1,0 +1,15 @@
+﻿
+.rotation {
+    -webkit-transform: rotate(-270deg);	
+    -moz-transform: rotate(-270deg);
+    -ms-transform: rotate(-270deg);
+    -o-transform: rotate(-270deg);
+    transform: rotate(-270deg);
+    writing-mode: vertical-rl
+    direction: rtl;
+    position:absolute;
+    left:50px;
+    top:75px;        
+}
+
+
